@@ -2,7 +2,7 @@
   "name":"ABRO MD",
   "description":"ABRO MULTIDIVICE CREATED BY ABRO",
   "keywords":["ABRO","node","baileys","whatsapp"],
-  "logo":"https://imgur.com/7dioWDc.jpeg",
+  "logo":"https://imgur.com/7doiWDc.jpeg",
   "repository":"https://github.com/Temitopeareo/ab1",
   "succes_url":"/",
   "stack":"container",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"!",
       "required":true
     },
     "AUTO_READ_STATUS":
